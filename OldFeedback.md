@@ -1,3 +1,7 @@
+## HW11; Score: 16/20
+
+Spencer and Anthony, I'm a bit confused by the model that you have. It appears to be a 1D model (in x), but the field varies in time and position (z?). I think a figure that describes the physical setup would help. In any event, it appears that the model if it is indeed what you have, would just be a driven oscillator, right? If the forcing is in x, would i expect the electron to move in z sand thus encounter different magnitude fields? I'm wondering if it's a typo or if I'm misunderstanding something. All this leads me to wonder about your graph because it appears to not be harmonic, which I would expect over a long period of time. So, look into what you have done a bit more. I do think that the object oriented method makes a lot of sense for what you are trying to do.
+
 ## HW 10; Score: 16/20
 
 
